@@ -1,3 +1,5 @@
+## Note: Vibe coded, run in isolation
+
 # Mutual Fund Tax Analyzer for ITR Filing
 
 This Python script analyzes mutual fund transactions from Kuvera reports and splits them based on July 23, 2024 - the date when new tax rules became applicable for mutual fund taxation in India.
